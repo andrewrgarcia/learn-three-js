@@ -1,4 +1,4 @@
-# learn-three-js <img src="screenshot.png" alt="Girl in a jacket" width="900" height="250"> 
+# learn-three-js <img src="screenshot.png" alt="Girl in a jacket" width="605" height="300"> 
 Three JS shape rendering obtained by small changes to Three JS crash course:
 
 https://www.youtube.com/watch?v=6oFvqLfRnsU
